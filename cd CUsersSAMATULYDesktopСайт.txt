@@ -1,0 +1,5 @@
+cd "C:\Users\SAMATULY\Desktop\Сайт"
+npm run dev
+
+cd "C:\Users\SAMATULY\Desktop\Сайт\server"
+node index.js

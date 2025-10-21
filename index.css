@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ✔️ Шрифттің атауы мен файлы сәйкес */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./styles/fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
